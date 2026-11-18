@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "student-grades",
+      "title": "Student Grades",
+      "description": "Functions and dictionaries: calculate averages and classify students",
+      "path": "assignments/student-grades",
+      "dueDate": "2026-11-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
